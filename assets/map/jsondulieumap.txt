@@ -1,0 +1,142 @@
+{
+    "map": [
+		{
+			"TenMap": "Map1",
+			"ChieuDoc": "9",
+			"ChieuNgang": "7",
+			"SoKimCuong": "6",
+			"ThoiGianChoi": "10",
+			"MocDiem1": "2000",
+			"MocDiem2": "30000",
+			"MocDiem3": "40000",
+			"XuVang": "0",
+			"XuBac": "0"
+		},
+		{
+			"TenMap": "Map2",
+			"ChieuDoc": "9",
+			"ChieuNgang": "7",
+			"SoKimCuong": "5",
+			"ThoiGianChoi": "10",
+			"MocDiem1": "2000",
+			"MocDiem2": "30000",
+			"MocDiem3": "40000",
+			"XuVang": "0",
+			"XuBac": "0"
+		},
+		{
+			"TenMap": "Map3",
+			"ChieuDoc": "9",
+			"ChieuNgang": "7",
+			"SoKimCuong": "5",
+			"ThoiGianChoi": "10",
+			"SoLuot": "0",
+			"MocDiem1": "2000",
+			"MocDiem2": "30000",
+			"MocDiem3": "40000",
+			"XuVang": "2",
+			"XuBac": "2"
+		},
+		
+		{
+			"TenMap": "Map4",
+			"ChieuDoc": "9",
+			"ChieuNgang": "7",
+			"SoKimCuong": "4",
+			"ThoiGianChoi": "30",
+			"MocDiem1": "10000",
+			"MocDiem2": "12000",
+			"MocDiem3": "15000",
+			"XuVang": "3",
+			"XuBac": "0"
+		},
+		
+		
+		{
+			"TenMap": "Map5",
+			"ChieuDoc": "9",
+			"ChieuNgang": "7",
+			"SoKimCuong": "5",
+			"ThoiGianChoi": "99",
+			"MocDiem1": "20000",
+			"MocDiem2": "30000",
+			"MocDiem3": "40000",
+			"XuVang": "2",
+			"XuBac": "2"
+		},
+		
+		{
+																		
+			"TenMap": "Map6",
+			"ChieuDoc": "9",
+			"ChieuNgang": "7",
+			"SoKimCuong": "4",
+			"ThoiGianChoi": "60",
+			"MocDiem1": "50000",
+			"MocDiem2": "70000",
+			"MocDiem3": "100000",
+			"XuVang": "2",
+			"XuBac": "2"
+		},
+
+		
+		{
+										"TenMap": "Map7",
+			"ChieuDoc": "9",
+			"ChieuNgang": "7",
+			"SoKimCuong": "5",
+			"ThoiGianChoi": "99",
+			"MocDiem1": "30000",
+			"MocDiem2": "60000",
+			"MocDiem3": "80000",
+			"XuVang": "1",
+			"XuBac": "1"
+		}
+		,
+		
+		
+		{
+												"TenMap": "Map8",
+			"ChieuDoc": "9",
+			"ChieuNgang": "7",
+			"SoKimCuong": "5",
+			"ThoiGianChoi": "80",
+			"MocDiem1": "10000",
+			"MocDiem2": "20000",
+			"MocDiem3": "30000",
+			"XuVang": "4",
+			"XuBac": "4"
+		}
+		,
+		
+		
+		{
+															"TenMap": "Map9",
+			"ChieuDoc": "9",
+			"ChieuNgang": "7",
+			"SoKimCuong": "5",
+			"ThoiGianChoi": "99",
+			"MocDiem1": "20000",
+			"MocDiem2": "30000",
+			"MocDiem3": "40000",
+			"XuVang": "7",
+			"XuBac": "0"
+		}
+		,
+		
+		
+		{
+													"TenMap": "Map10",
+			"ChieuDoc": "9",
+			"ChieuNgang": "7",
+			"SoKimCuong": "5",
+			"ThoiGianChoi": "99",
+			"MocDiem1": "20000",
+			"MocDiem2": "30000",
+			"MocDiem3": "40000",
+			"XuVang": "0",
+			"XuBac": "0"
+		}
+		
+	]
+}

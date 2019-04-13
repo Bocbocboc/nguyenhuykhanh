@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/nen_trong"
+    android:gravity="center">
+    
+    <LinearLayout android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/pause_bg"
+        android:gravity="center|bottom">
+        
+        
+	        <LinearLayout android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:orientation="horizontal"
+	            android:gravity="center_vertical"
+	            android:layout_marginBottom="0dp">
+	    
+	    	<ImageView android:id="@+id/bt_menu" 
+	    	    android:layout_width="wrap_content"
+	    	    android:layout_height="wrap_content"
+	    	    android:src="@drawable/menu"/>
+	    	
+	    	<ImageView android:id="@+id/bt_resume" 
+	    	    android:layout_width="wrap_content"
+	    	    android:layout_height="wrap_content"
+	    	    android:layout_marginLeft="31dp"
+	    	    android:src="@drawable/btnplay"/>
+		   
+	    	<ImageView android:id="@+id/bt_restart" 
+	    	    android:layout_width="wrap_content"
+	    	    android:layout_height="wrap_content"
+	    	    android:layout_marginLeft="31dp"
+	    	    android:src="@drawable/replay"/>
+	    	
+    	</LinearLayout>
+	    
+	  </LinearLayout>
+
+</LinearLayout>
